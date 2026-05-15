@@ -1,0 +1,74 @@
+"Notes","State","State Code",Births
+,"Alabama","01",242747
+,"Alaska","02",41879
+,"Arizona","04",383258
+,"Arkansas","05",156526
+,"California","06",2197162
+,"Colorado","08",277537
+,"Connecticut","09",168506
+,"Delaware","10",46330
+,"District of Columbia","11",32046
+,"Florida","12",893345
+,"Georgia","13",565661
+,"Hawaii","15",73287
+,"Idaho","16",91578
+,"Illinois","17",722865
+,"Indiana","18",349400
+,"Iowa","19",156530
+,"Kansas","20",160001
+,"Kentucky","21",225650
+,"Louisiana","22",254722
+,"Maine","23",56062
+,"Maryland","24",302032
+,"Massachusetts","25",313209
+,"Michigan","26",516059
+,"Minnesota","27",285118
+,"Mississippi","28",173658
+,"Missouri","29",314813
+,"Montana","30",47032
+,"Nebraska","31",105121
+,"Nevada","32",146142
+,"New Hampshire","33",57756
+,"New Jersey","34",461032
+,"New Mexico","35",114976
+,"New York","36",1000116
+,"North Carolina","37",489125
+,"North Dakota","38",33172
+,"Ohio","39",597614
+,"Oklahoma","40",208104
+,"Oregon","41",186242
+,"Pennsylvania","42",585180
+,"Rhode Island","44",51057
+,"South Carolina","45",232121
+,"South Dakota","46",45746
+,"Tennessee","47",324634
+,"Texas","48",1544287
+,"Utah","49",205590
+,"Vermont","50",25994
+,"Virginia","51",417559
+,"Washington","53",331815
+,"West Virginia","54",83582
+,"Wisconsin","55",283510
+,"Wyoming","56",28418
+"Total",,,16605906
+"---"
+"Dataset: Natality, 2003-2006"
+"Query Parameters:"
+"Group By: State"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"Population Option: No populations shown because rates were not selected."
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/natality.html for more information."
+"---"
+"Query Date: May 12, 2026 7:50:23 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 2003-2006, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-v2006.html on May 12, 2026 7:50:23 PM"
+"---"
+Caveats:
+"1. Each birth record represents one liveborn infant."

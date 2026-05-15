@@ -1,0 +1,74 @@
+"Notes","State","State Code",Births
+,"Alabama","01",488647
+,"Alaska","02",80019
+,"Arizona","04",641579
+,"Arkansas","05",293848
+,"California","06",4245562
+,"Colorado","08",489279
+,"Connecticut","09",346717
+,"Delaware","10",84818
+,"District of Columbia","11",63328
+,"Florida","12",1578655
+,"Georgia","13",993101
+,"Hawaii","15",141110
+,"Idaho","16",156529
+,"Illinois","17",1464173
+,"Indiana","18",680176
+,"Iowa","19",298892
+,"Kansas","20",306292
+,"Kentucky","21",431938
+,"Louisiana","22",529016
+,"Maine","23",109609
+,"Maryland","24",578940
+,"Massachusetts","25",647974
+,"Michigan","26",1068581
+,"Minnesota","27",525825
+,"Mississippi","28",337362
+,"Missouri","29",598865
+,"Montana","30",87403
+,"Nebraska","31",192138
+,"Nevada","32",230935
+,"New Hampshire","33",115675
+,"New Jersey","34",917246
+,"New Mexico","35",217632
+,"New York","36",2070567
+,"North Carolina","37",894391
+,"North Dakota","38",63809
+,"Ohio","39",1218929
+,"Oklahoma","40",388892
+,"Oregon","41",357073
+,"Pennsylvania","42",1168284
+,"Rhode Island","44",100960
+,"South Carolina","45",429522
+,"South Dakota","46",83459
+,"Tennessee","47",612037
+,"Texas","48",2779935
+,"Utah","49",360672
+,"Vermont","50",52559
+,"Virginia","51",764108
+,"Washington","53",632246
+,"West Virginia","54",166122
+,"Wisconsin","55",543758
+,"Wyoming","56",50233
+"Total",,,31679420
+"---"
+"Dataset: Natality, 1995-2002"
+"Query Parameters:"
+"Group By: State"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/natality.html for more information."
+"---"
+"Query Date: May 12, 2026 7:40:38 PM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. National Vital Statistics"
+"System, Natality on CDC WONDER Online Database. Data are from the Natality Records 1995-2002, as compiled from data provided by"
+"the 57 vital statistics jurisdictions through the Vital Statistics Cooperative Program. Accessed at"
+"http://wonder.cdc.gov/natality-v2002.html on May 12, 2026 7:40:38 PM"
+"---"
+Caveats:
+"1. Each birth record represents one liveborn infant."
+"2. Data are Suppressed when the data meet the criteria for confidentiality constraints. More information:"
+"http://wonder.cdc.gov/wonder/help/natality.html#Assurance of Confidentiality."
