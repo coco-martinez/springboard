@@ -1,0 +1,11 @@
+hotels/data/raw/ 
+*.csv 
+*.zip 
+*.csv 
+*.zip 
+**/data/raw/ 
+**/.ipynb_checkpoints/ 
+*.csv 
+*.zip 
+*.xlsx 
+*.csv 
